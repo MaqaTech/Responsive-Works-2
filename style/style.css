@@ -1,0 +1,19 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: #2A7CC7;
+}
+
+#section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+#section .designer {
+  color: #fff;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
